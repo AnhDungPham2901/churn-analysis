@@ -18,7 +18,7 @@ A club is facing a warning increase in cancellation rate over the years and it's
 
 Where is the problem? What can we do to address it?
 
-![Cancellation Rate Trend](visuals/cancellation_rate_trend.png)
+![Cancellation Rate Trend](visuals/cancellation_rate_overtime.png)
 
 ## Methodology
 The project follows a structured approach to data analysis:
