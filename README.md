@@ -13,6 +13,12 @@ This project aims to show a structured way to explore insights from datasets by 
 │   └── eda.ipynb           # Exploratory data analysis
 └── utils/                  # Utility functions and helper modules
 ```
+## Problem definition
+A club is facing a warning increase in cancellation rate over the years and it's happening to each package type. And we can see an alarming retention rate lately which shows the club is getting worse at retaining customers. With the increase in the number of members, the cancellation rate has gone up as well.
+
+Where is the problem? What can we do to address it?
+
+![Cancellation Rate Trend](visuals/cancellation_rate_trend.png)
 
 ## Methodology
 The project follows a structured approach to data analysis:
